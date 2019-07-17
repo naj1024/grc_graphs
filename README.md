@@ -1,2 +1,2 @@
-# grc_graphs
+# GNU radio graphs
 
